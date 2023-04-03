@@ -1,0 +1,10 @@
+.ContentWrapper{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.MainBar{
+    grid-column: 1/2;
+}
+.NavBar{
+    grid-column: 2/3;
+}

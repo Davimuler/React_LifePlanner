@@ -1,0 +1,32 @@
+.Goal{
+    border: 1px solid  teal;
+    width: 600px;
+    height: 100px;
+    margin:10px;
+    border-radius: 3px;
+    background-color: #ccfcd1;
+
+}
+
+.GoalInfo{
+    position: relative;
+    top: 30%;
+    left: 5%;
+
+}
+.CheckBox{
+    float: right;
+    position: relative;
+    border: 1px solid teal;
+    top:15%;
+    left: -2%;
+    width: 25px;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.CheckMark{
+    width: auto;
+    height: 28px;
+}
+
