@@ -1,0 +1,39 @@
+.TitleAddGoal{
+    color:#1E90FF;
+    cursor:pointer;
+}
+.AddGoalBox{
+    width: 600px;
+    padding:5px;
+    box-sizing: border-box;
+    border:1px solid green;
+    border-radius: 5px;
+    margin-left: -5px;
+    height: 80px;
+}
+.Main{ margin: 15px;
+   }
+.input{
+    font-size: 15px;
+    width: 400px;
+    height: 25px;
+   margin-left:5px;
+    margin-bottom: 5px;
+}
+.img{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.button{
+    float: right;
+    margin-top: -10px;
+}
+.Score{
+    width: 40px;
+    margin-left: 20px;
+}
+.imgAttach{
+    width: 25px;
+    height: 25px;
+}

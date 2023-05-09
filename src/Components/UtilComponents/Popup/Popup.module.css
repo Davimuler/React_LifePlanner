@@ -1,0 +1,12 @@
+.Popup{
+    border: 1px solid green;
+    border-radius: 5px;
+    width:150px;
+}
+.PopupItem{
+    padding: 3px;
+    cursor: pointer;
+}
+.PopupItem:hover{
+    background-color: lightgray;
+}

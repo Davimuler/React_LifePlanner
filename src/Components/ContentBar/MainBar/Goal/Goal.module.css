@@ -12,7 +12,12 @@
     position: relative;
     top: 30%;
     left: 5%;
-
+}
+.GoalScore{
+    position: relative;
+    top: 50%;
+    left: 1%;
+    color:gold;
 }
 .CheckBox{
     float: right;
@@ -28,5 +33,11 @@
 .CheckMark{
     width: auto;
     height: 28px;
+}
+.TicketBox{
+    top:-5%;
+    margin-right: 40px;
+    float: right;
+    position: relative;
 }
 

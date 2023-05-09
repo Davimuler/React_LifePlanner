@@ -1,0 +1,12 @@
+.inputTimes{
+    width: 35px;
+text-align: center;
+}
+.repeatTimesContainer{
+    font-size: 12px;
+    margin-left: 5px;
+}
+.counter{
+    cursor: pointer;
+    font-size: 20px;
+}

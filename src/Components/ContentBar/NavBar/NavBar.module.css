@@ -1,0 +1,23 @@
+.Img{
+    width: 30px;
+    height: 25px;
+}
+.NavBar{
+    padding-top: 5px;
+    border-left: 1px solid teal;
+}
+.MyDay{
+    margin:20px;
+    text-decoration:none;
+    color:#1E90FF;font-size: 20px;
+}
+.NavBarItem{
+    margin:10px;
+    display: flex;
+    text-decoration:none;
+    color:#1E90FF;
+    width: 110px;
+}
+.NavBarItem:hover{
+    background-color: lightgray;
+}
